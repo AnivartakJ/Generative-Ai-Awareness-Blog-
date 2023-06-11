@@ -8,7 +8,7 @@ Discover real-world examples of how generative A.I. enhances the customer experi
 Learn how generative A.I. paves the way for enhanced customer engagement and loyalty.
 Uncover the potential of generative A.I. in revolutionizing various aspects of business operations and growth.
 Contents
-Introduction
+Introduction 
 
 Overview of generative A.I. and its impact on businesses.
 The role of ChatGPT and OpenAI in driving advancements in generative A.I.
